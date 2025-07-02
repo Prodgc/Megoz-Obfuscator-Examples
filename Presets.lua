@@ -1,4 +1,3 @@
--- This File Generated With Terrame+ Obfuscator
 -- ID: A98754-B98665-C98762-PFDCKMZX  
 -- Preset: Weak
 -- Enviorement: Sandbox Lua 5.1+ , 5.3+
